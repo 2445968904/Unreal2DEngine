@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"SpineEditorPlugin": "UnrealEditor-SpineEditorPlugin.dll",
+		"SpinePlugin": "UnrealEditor-SpinePlugin.dll"
+	}
+}

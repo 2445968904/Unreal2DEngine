@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "QuarkPhysics",
+	"Description": "A 2D particle-based physics engine plugin for Unreal Engine. Supports rigid bodies, soft bodies, area bodies, and platformer bodies with spring/joint constraints.",
+	"Category": "Physics",
+	"CreatedBy": "Eray Zesen (original) / UE Port",
+	"CreatedByURL": "https://github.com/erayzesen/QuarkPhysics",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "QuarkPhysics",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+}
